@@ -9,7 +9,7 @@ shared. Things are currently slow but will be adding when we can.
 
 ## Getting started
 
-  - [Setting up your console](setup-dev-mode)
+  - [Setting up your console](setup-dev-mode.md)
   - [Installing Compatible Software](installing-compatible_software)
   - [Bootloaders](bootloaders)
   - [Xbox Operating System](xbox-operating-system)
